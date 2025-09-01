@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.head img{
+    width: 20%;
+    height:140px;
+    padding: 10px;
+   
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+    gap: 600px;
+}
+.button{
+    display: flex;
+    gap: 10px;
+    text-align: center;
+
+}
+.button a{
+    text-decoration: none;
+    background-color:black ;
+    height: 30px;
+    width: 80px;
+    padding: 15px;
+    color: white;
+    border-radius: 8px;
+    position: relative;
+    top: 50px;
+}
+main div{
+    background-color: black;
+    padding: 20px;
+}
+form label{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+}
+form{
+    position: relative;
+    bottom: 80px;
+}
+form .box{
+    height: 30px;
+}
+form h1{
+    padding-left: 90px;
+    font-size: 40px;
+}
+.fill{
+    display: flex;
+   justify-content: center;
+   padding: 200px;
+   margin: 40px 400px;
+   height: 80px;
+   background-color:white;
+   box-shadow: 0 2px 5px rgb(0, 0, 0, 0.2);
+   border-radius: 8px;
+}
+.fill span{
+    padding-left: 50%;
+    
+}
+.submit{
+    padding: 10px;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+
+}
+.fills form{
+    bottom: 160px;
+}
+.fills{
+    display: flex;
+   justify-content: center;
+   padding: 200px;
+   margin: 40px 400px;
+   height: 160px;
+   background-color:white;
+   box-shadow: 0 2px 5px rgb(0, 0, 0, 0.2);
+   border-radius: 8px;
+}
+.fills span{
+    padding-left: 80%;
+    
+}
+.fills .submit{
+    padding: 10px;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+
+}.submit{
+    padding: 10px;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+
+}
+.bottom{
+    display: flex;
+    justify-content: center;
+    gap: 3px;
+}
